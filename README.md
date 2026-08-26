@@ -1,4 +1,4 @@
-# ⚔️ Duel Game
+# Duel Game
 
 ## Description
 
