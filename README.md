@@ -20,7 +20,7 @@ Each ability has a **25% chance** to activate in a round. The abilities are:
 
 - **Defensive Shield**: When attacked, the character takes only half damage.
 - **Rage Mode**: When attacking, the character deals 50% more damage.
-- **Second Wind**: If an attack brings the character's health below 30, they heal 5 health points.
+- **Second Wind**: If an attack brings the character’s health below 30, they heal 5 health points.
 
 ## Game Flow
 
@@ -30,6 +30,6 @@ Each ability has a **25% chance** to activate in a round. The abilities are:
 
 1. The selected character attacks the other using their attack power.
 2. The defender reduces the incoming damage by their defense power.
-3. The final damage is subtracted from the defender's health.
+3. The final damage is subtracted from the defender’s health.
 4. The roles are then reversed for the next attack.
-5. The battle continues in rounds until one character's health drops to **0 or below**.
+5. The battle continues in rounds until one character’s health drops to **0 or below**.
